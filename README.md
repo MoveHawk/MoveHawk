@@ -1,4 +1,4 @@
-- Hi, I’m @MoveHawk, aka Mrunal Mendole,
+- Hi, I’m @MoveHawk, aka Mrunal Mendole
 - Reach me at my Email ID: mbmendole@gmail.com | LinkedIn: www.linkedin.com/in/mrunal-mendole
   
 
