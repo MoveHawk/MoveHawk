@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @MoveHawk, aka Mrunal Mendole,
-- i am a JDM Fanatic (I like Japanese Cars)
-- 👀 I’m interested in many things especially Game and Level Design, I like Music and Sound Engineering as well.
-- 🌱 I’m currently learning Game Development
-- 💞️ I’m looking to collaborate on new and Creative Game Dev projects 
-- 📫 Reach me at my Email ID: mbmendole@gmail.com
--                    Instagram ID: @mbm.overhaul
+- Hi, I’m @MoveHawk, aka Mrunal Mendole,
+- Reach me at my Email ID: mbmendole@gmail.com | LinkedIn: www.linkedin.com/in/mrunal-mendole
+  
 
 
 <!---
