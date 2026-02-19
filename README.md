@@ -2,7 +2,7 @@
 - Reach me: mbmendole@gmail.com | LinkedIn: www.linkedin.com/in/mrunal-mendole
 
 <h1> Featured Projects:</h1>
-<h3> Here are some of my top projects that reflect my technical skills.</h3>
+<h3> Here are some of my top projects ↓ </h3>
   
   
 
