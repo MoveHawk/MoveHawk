@@ -1,5 +1,5 @@
 - Hi, I’m @MoveHawk, aka Mrunal Mendole
-- Reach me: mbmendole@gmail.com | LinkedIn: www.linkedin.com/in/mrunal-mendole
+- Reach me: mbmendole@gmail.com | [LinkedIn](www.linkedin.com/in/mrunal-mendole) | [Design Portfolio](https://mrunalmendole.notion.site/Mrunal-Mendole-Portfolio-30def5ada66e80c8b989f2c28df7aa46?source=copy_link)
 
 <h1> Featured Projects:</h1>
 <h3> Here are some of my top projects ↓ </h3>
